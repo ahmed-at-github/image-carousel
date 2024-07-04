@@ -35,7 +35,7 @@ function App() {
       <h2> Classical Art Carousel</h2>
       <div className="slider">
         <div className="left-arrow" onClick={prev}>
-          ⬅
+          
         </div>
 
         <div className="right-arrow" onClick={next}>
