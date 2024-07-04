@@ -3,6 +3,8 @@
 =======
 <<<<<<< HEAD
 # image-carousel
+
+here look : https://ahmed-at-github.github.io/image-carousel
 =======
 # Getting Started with Create React App
 
