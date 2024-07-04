@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2> Classical Art: Carousel</h2>
+      <h2> Classical Art Carousel</h2>
       <div className="slider">
         <div className="left-arrow" onClick={prev}>
           ⬅
