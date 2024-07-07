@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# image-carousel
-=======
-<<<<<<< HEAD
-# image-carousel
 
-here look : https://ahmed-at-github.github.io/image-carousel
-=======
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
